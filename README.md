@@ -2,16 +2,6 @@
 
 Proyecto integrador de **Tecnologías del Lenguaje Natural** y **Algoritmos Bioinspirados**.
 
-## Objetivo
-Construir un sistema de traducción automática español→ruso que combina tres enfoques
-clásicos (reglas, modelo ajustado tipo NMT/estadístico, y ejemplo/memoria de traducción),
-cuya combinación y parámetros de decodificación se optimizan mediante el algoritmo
-**ABC (Artificial Bee Colony)**.
-
-## Integrantes
-- Nombre completo — correo — matrícula
-- Nombre completo — correo — matrícula
-
 ## Idioma de destino
 Ruso (es → ru)
 
