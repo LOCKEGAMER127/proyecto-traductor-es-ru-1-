@@ -1,0 +1,9 @@
+{
+  "bleu": 46.79066433479394,
+  "chrf": 67.89343557895292,
+  "version_sacrebleu": "2.6.0",
+  "configuracion_bleu": "BLEU = 46.79 69.5/52.3/42.2/35.2 (BP = 0.970 ratio = 0.971 hyp_len = 25957 ref_len = 26737)",
+  "tiempo_inferencia_segundos": 58.90793418884277,
+  "n_oraciones": 1000,
+  "modelo_usado": "C:/modelos/opus-mt-es-ru-ajustado"
+}

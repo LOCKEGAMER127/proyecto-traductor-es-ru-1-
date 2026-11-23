@@ -1,0 +1,30 @@
+{
+  "base": {
+    "bleu": 46.46268774412567,
+    "chrf": 67.81094039177573,
+    "version_sacrebleu": "2.6.0",
+    "configuracion_bleu": "BLEU = 46.46 69.1/51.9/41.9/34.9 (BP = 0.970 ratio = 0.971 hyp_len = 25952 ref_len = 26737)",
+    "tiempo_inferencia_segundos": 258.0401420593262
+  },
+  "optimizada": {
+    "bleu": 42.98185395465077,
+    "chrf": 65.30561948201898,
+    "version_sacrebleu": "2.6.0",
+    "configuracion_bleu": "BLEU = 42.98 66.0/48.6/38.8/32.0 (BP = 0.962 ratio = 0.963 hyp_len = 25736 ref_len = 26737)",
+    "tiempo_inferencia_segundos": 245.88647961616516
+  },
+  "diferencia": {
+    "bleu": -3.4808337894749,
+    "chrf": -2.5053209097567475,
+    "tiempo_inferencia_segundos": -12.15366244316101
+  },
+  "estadistica_validacion_abc": {
+    "mejores_chrf_por_ejecucion": [
+      68.11748313761895,
+      68.12644716937683,
+      68.14991627035005
+    ],
+    "promedio": 68.13128219244861,
+    "desviacion_estandar": 0.013675040786453554
+  }
+}

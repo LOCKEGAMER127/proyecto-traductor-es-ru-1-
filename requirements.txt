@@ -1,0 +1,28 @@
+# Núcleo
+# numpy fijado para evitar instalaciones corruptas/mezcladas (ruedas de otra
+# version de Python). Instalar explicitamente ANTES del resto si falla:
+#   pip install "numpy<2.2,>=1.26"
+numpy>=1.26,<2.2
+datasets>=2.19.0
+transformers>=4.41.0
+torch>=2.2.0
+sentencepiece>=0.2.0
+accelerate>=0.30.0
+
+# Métricas
+sacrebleu>=2.4.0
+
+# Ejemplo / memoria de traducción
+scikit-learn>=1.4.0
+
+# Gráficas y tablas
+pandas>=2.2.0
+matplotlib>=3.8.0
+numpy>=1.26.0
+
+# Interfaz de escritorio
+customtkinter>=5.2.0
+
+# Opcional: memoria de traduccion con embeddings multilingues
+# (solo si usas MemoriaDeTraduccion(modo="embeddings"))
+sentence-transformers>=3.0.0

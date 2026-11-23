@@ -1,0 +1,12 @@
+{
+  "fuente": "Helsinki-NLP/un_pc",
+  "config": "es-ru",
+  "licencia": "liberal / open (ver dataset card en HuggingFace)",
+  "direccion": "https://huggingface.co/datasets/Helsinki-NLP/un_pc",
+  "cantidad_original_tomada": 150000,
+  "cantidad_tras_dedup": 137376,
+  "cantidad_tras_filtro_longitud": 130200,
+  "cantidad_final_train": 128200,
+  "cantidad_final_val": 1000,
+  "cantidad_final_test": 1000
+}

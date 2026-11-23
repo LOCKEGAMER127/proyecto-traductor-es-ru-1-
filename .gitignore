@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pt
+*.bin
+datos_evaluacion/*.csv
+experimentos/registros/*.csv
+experimentos/graficas/*.png
+modelos_guardados/
+.DS_Store

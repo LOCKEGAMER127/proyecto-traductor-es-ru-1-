@@ -1,0 +1,13 @@
+{
+  "_comentario": "Configuracion base del modelo (antes de optimizar con ABC). No modificar manualmente tras congelar el experimento 1.",
+  "modelo_base": "Helsinki-NLP/opus-mt-es-ru",
+  "num_beams": 4,
+  "length_penalty": 1.0,
+  "repetition_penalty": 1.0,
+  "max_length": 128,
+  "pesos_combinacion": {
+    "w_nmt": 1.0,
+    "w_ebmt": 0.0,
+    "w_reglas": 0.0
+  }
+}

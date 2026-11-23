@@ -1,0 +1,8 @@
+{
+  "bleu": 0.0,
+  "chrf": 0.003888852501964894,
+  "version_sacrebleu": "2.6.0",
+  "configuracion_bleu": "BLEU = 0.00 0.0/0.0/0.0/0.0 (BP = 0.000 ratio = 0.037 hyp_len = 1000 ref_len = 26737)",
+  "sistema": "TODO: nombre del traductor externo",
+  "fecha_consulta": "2026-11-23"
+}
